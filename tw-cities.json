@@ -1,0 +1,2788 @@
+[
+  {
+    "id": 1,
+    "cityName": "臺北市",
+    "cityEngName": "Taipei City",
+    "areas": [
+      {
+        "id": 2,
+        "cityId": 1,
+        "zipCode": 100,
+        "areaName": "中正區",
+        "areaEngName": "Zhongzheng Dist."
+      },
+      {
+        "id": 3,
+        "cityId": 1,
+        "zipCode": 103,
+        "areaName": "大同區",
+        "areaEngName": "Datong Dist."
+      },
+      {
+        "id": 4,
+        "cityId": 1,
+        "zipCode": 104,
+        "areaName": "中山區",
+        "areaEngName": "Zhongshan Dist."
+      },
+      {
+        "id": 5,
+        "cityId": 1,
+        "zipCode": 105,
+        "areaName": "松山區",
+        "areaEngName": "Songshan Dist."
+      },
+      {
+        "id": 6,
+        "cityId": 1,
+        "zipCode": 106,
+        "areaName": "大安區",
+        "areaEngName": "Da’an Dist."
+      },
+      {
+        "id": 7,
+        "cityId": 1,
+        "zipCode": 108,
+        "areaName": "萬華區",
+        "areaEngName": "Wanhua Dist."
+      },
+      {
+        "id": 8,
+        "cityId": 1,
+        "zipCode": 110,
+        "areaName": "信義區",
+        "areaEngName": "Xinyi Dist."
+      },
+      {
+        "id": 9,
+        "cityId": 1,
+        "zipCode": 111,
+        "areaName": "士林區",
+        "areaEngName": "Shilin Dist."
+      },
+      {
+        "id": 10,
+        "cityId": 1,
+        "zipCode": 112,
+        "areaName": "北投區",
+        "areaEngName": "Beitou Dist."
+      },
+      {
+        "id": 11,
+        "cityId": 1,
+        "zipCode": 114,
+        "areaName": "內湖區",
+        "areaEngName": "Neihu Dist."
+      },
+      {
+        "id": 12,
+        "cityId": 1,
+        "zipCode": 115,
+        "areaName": "南港區",
+        "areaEngName": "Nangang Dist."
+      },
+      {
+        "id": 13,
+        "cityId": 1,
+        "zipCode": 116,
+        "areaName": "文山區",
+        "areaEngName": "Wenshan Dist."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "cityName": "基隆市",
+    "cityEngName": "Keelung City",
+    "areas": [
+      {
+        "id": 15,
+        "cityId": 14,
+        "zipCode": 200,
+        "areaName": "仁愛區",
+        "areaEngName": "Ren’ai Dist."
+      },
+      {
+        "id": 16,
+        "cityId": 14,
+        "zipCode": 201,
+        "areaName": "信義區",
+        "areaEngName": "Xinyi Dist."
+      },
+      {
+        "id": 17,
+        "cityId": 14,
+        "zipCode": 202,
+        "areaName": "中正區",
+        "areaEngName": "Zhongzheng Dist."
+      },
+      {
+        "id": 18,
+        "cityId": 14,
+        "zipCode": 203,
+        "areaName": "中山區",
+        "areaEngName": "Zhongshan Dist."
+      },
+      {
+        "id": 19,
+        "cityId": 14,
+        "zipCode": 204,
+        "areaName": "安樂區",
+        "areaEngName": "Anle Dist."
+      },
+      {
+        "id": 20,
+        "cityId": 14,
+        "zipCode": 205,
+        "areaName": "暖暖區",
+        "areaEngName": "Nuannuan Dist."
+      },
+      {
+        "id": 21,
+        "cityId": 14,
+        "zipCode": 206,
+        "areaName": "七堵區",
+        "areaEngName": "Qidu Dist."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "cityName": "新北市",
+    "cityEngName": "New Taipei City",
+    "areas": [
+      {
+        "id": 23,
+        "cityId": 22,
+        "zipCode": 207,
+        "areaName": "萬里區",
+        "areaEngName": "Wanli Dist."
+      },
+      {
+        "id": 24,
+        "cityId": 22,
+        "zipCode": 208,
+        "areaName": "金山區",
+        "areaEngName": "Jinshan Dist."
+      },
+      {
+        "id": 25,
+        "cityId": 22,
+        "zipCode": 220,
+        "areaName": "板橋區",
+        "areaEngName": "Banqiao Dist."
+      },
+      {
+        "id": 26,
+        "cityId": 22,
+        "zipCode": 221,
+        "areaName": "汐止區",
+        "areaEngName": "Xizhi Dist."
+      },
+      {
+        "id": 27,
+        "cityId": 22,
+        "zipCode": 222,
+        "areaName": "深坑區",
+        "areaEngName": "Shenkeng Dist."
+      },
+      {
+        "id": 28,
+        "cityId": 22,
+        "zipCode": 223,
+        "areaName": "石碇區",
+        "areaEngName": "Shiding Dist."
+      },
+      {
+        "id": 29,
+        "cityId": 22,
+        "zipCode": 224,
+        "areaName": "瑞芳區",
+        "areaEngName": "Ruifang Dist."
+      },
+      {
+        "id": 30,
+        "cityId": 22,
+        "zipCode": 226,
+        "areaName": "平溪區",
+        "areaEngName": "Pingxi Dist."
+      },
+      {
+        "id": 31,
+        "cityId": 22,
+        "zipCode": 227,
+        "areaName": "雙溪區",
+        "areaEngName": "Shuangxi Dist."
+      },
+      {
+        "id": 32,
+        "cityId": 22,
+        "zipCode": 228,
+        "areaName": "貢寮區",
+        "areaEngName": "Gongliao Dist."
+      },
+      {
+        "id": 33,
+        "cityId": 22,
+        "zipCode": 231,
+        "areaName": "新店區",
+        "areaEngName": "Xindian Dist."
+      },
+      {
+        "id": 34,
+        "cityId": 22,
+        "zipCode": 232,
+        "areaName": "坪林區",
+        "areaEngName": "Pinglin Dist."
+      },
+      {
+        "id": 35,
+        "cityId": 22,
+        "zipCode": 233,
+        "areaName": "烏來區",
+        "areaEngName": "Wulai Dist."
+      },
+      {
+        "id": 36,
+        "cityId": 22,
+        "zipCode": 234,
+        "areaName": "永和區",
+        "areaEngName": "Yonghe Dist."
+      },
+      {
+        "id": 37,
+        "cityId": 22,
+        "zipCode": 235,
+        "areaName": "中和區",
+        "areaEngName": "Zhonghe Dist."
+      },
+      {
+        "id": 38,
+        "cityId": 22,
+        "zipCode": 236,
+        "areaName": "土城區",
+        "areaEngName": "Tucheng Dist."
+      },
+      {
+        "id": 39,
+        "cityId": 22,
+        "zipCode": 237,
+        "areaName": "三峽區",
+        "areaEngName": "Sanxia Dist."
+      },
+      {
+        "id": 40,
+        "cityId": 22,
+        "zipCode": 238,
+        "areaName": "樹林區",
+        "areaEngName": "Shulin Dist."
+      },
+      {
+        "id": 41,
+        "cityId": 22,
+        "zipCode": 239,
+        "areaName": "鶯歌區",
+        "areaEngName": "Yingge Dist."
+      },
+      {
+        "id": 42,
+        "cityId": 22,
+        "zipCode": 241,
+        "areaName": "三重區",
+        "areaEngName": "Sanchong Dist."
+      },
+      {
+        "id": 43,
+        "cityId": 22,
+        "zipCode": 242,
+        "areaName": "新莊區",
+        "areaEngName": "Xinzhuang Dist."
+      },
+      {
+        "id": 44,
+        "cityId": 22,
+        "zipCode": 243,
+        "areaName": "泰山區",
+        "areaEngName": "Taishan Dist."
+      },
+      {
+        "id": 45,
+        "cityId": 22,
+        "zipCode": 244,
+        "areaName": "林口區",
+        "areaEngName": "Linkou Dist."
+      },
+      {
+        "id": 46,
+        "cityId": 22,
+        "zipCode": 247,
+        "areaName": "蘆洲區",
+        "areaEngName": "Luzhou Dist."
+      },
+      {
+        "id": 47,
+        "cityId": 22,
+        "zipCode": 248,
+        "areaName": "五股區",
+        "areaEngName": "Wugu Dist."
+      },
+      {
+        "id": 48,
+        "cityId": 22,
+        "zipCode": 249,
+        "areaName": "八里區",
+        "areaEngName": "Bali Dist."
+      },
+      {
+        "id": 49,
+        "cityId": 22,
+        "zipCode": 251,
+        "areaName": "淡水區",
+        "areaEngName": "Tamsui Dist."
+      },
+      {
+        "id": 50,
+        "cityId": 22,
+        "zipCode": 252,
+        "areaName": "三芝區",
+        "areaEngName": "Sanzhi Dist."
+      },
+      {
+        "id": 51,
+        "cityId": 22,
+        "zipCode": 253,
+        "areaName": "石門區",
+        "areaEngName": "Shimen Dist."
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "cityName": "連江縣",
+    "cityEngName": "Lienchiang County",
+    "areas": [
+      {
+        "id": 53,
+        "cityId": 52,
+        "zipCode": 209,
+        "areaName": "南竿鄉",
+        "areaEngName": "Nangan Township"
+      },
+      {
+        "id": 54,
+        "cityId": 52,
+        "zipCode": 210,
+        "areaName": "北竿鄉",
+        "areaEngName": "Beigan Township"
+      },
+      {
+        "id": 55,
+        "cityId": 52,
+        "zipCode": 211,
+        "areaName": "莒光鄉",
+        "areaEngName": "Juguang Township"
+      },
+      {
+        "id": 56,
+        "cityId": 52,
+        "zipCode": 212,
+        "areaName": "東引鄉",
+        "areaEngName": "Dongyin Township"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "cityName": "宜蘭縣",
+    "cityEngName": "Yilan County",
+    "areas": [
+      {
+        "id": 58,
+        "cityId": 57,
+        "zipCode": 260,
+        "areaName": "宜蘭市",
+        "areaEngName": "Yilan City"
+      },
+      {
+        "id": 59,
+        "cityId": 57,
+        "zipCode": 263,
+        "areaName": "壯圍鄉",
+        "areaEngName": "Zhuangwei Township"
+      },
+      {
+        "id": 60,
+        "cityId": 57,
+        "zipCode": 261,
+        "areaName": "頭城鎮",
+        "areaEngName": "Toucheng Township"
+      },
+      {
+        "id": 61,
+        "cityId": 57,
+        "zipCode": 262,
+        "areaName": "礁溪鄉",
+        "areaEngName": "Jiaoxi Township"
+      },
+      {
+        "id": 62,
+        "cityId": 57,
+        "zipCode": 264,
+        "areaName": "員山鄉",
+        "areaEngName": "Yuanshan Township"
+      },
+      {
+        "id": 63,
+        "cityId": 57,
+        "zipCode": 265,
+        "areaName": "羅東鎮",
+        "areaEngName": "Luodong Township"
+      },
+      {
+        "id": 64,
+        "cityId": 57,
+        "zipCode": 266,
+        "areaName": "三星鄉",
+        "areaEngName": "Sanxing Township"
+      },
+      {
+        "id": 65,
+        "cityId": 57,
+        "zipCode": 267,
+        "areaName": "大同鄉",
+        "areaEngName": "Datong Township"
+      },
+      {
+        "id": 66,
+        "cityId": 57,
+        "zipCode": 268,
+        "areaName": "五結鄉",
+        "areaEngName": "Wujie Township"
+      },
+      {
+        "id": 67,
+        "cityId": 57,
+        "zipCode": 269,
+        "areaName": "冬山鄉",
+        "areaEngName": "Dongshan Township"
+      },
+      {
+        "id": 68,
+        "cityId": 57,
+        "zipCode": 270,
+        "areaName": "蘇澳鎮",
+        "areaEngName": "Su’ao Township"
+      },
+      {
+        "id": 69,
+        "cityId": 57,
+        "zipCode": 272,
+        "areaName": "南澳鄉",
+        "areaEngName": "Nan’ao Township"
+      },
+      {
+        "id": 70,
+        "cityId": 57,
+        "zipCode": 290,
+        "areaName": "釣魚臺",
+        "areaEngName": "Diaoyutai"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "cityName": "釣魚臺",
+    "cityEngName": "Diauyutai",
+    "areas": [
+      {
+        "id": 72,
+        "cityId": 71,
+        "zipCode": 290,
+        "areaName": "釣魚臺",
+        "areaEngName": "Diaoyutai"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "cityName": "新竹市",
+    "cityEngName": "Hsinchu City",
+    "areas": [
+      {
+        "id": 74,
+        "cityId": 73,
+        "zipCode": 300,
+        "areaName": "東區",
+        "areaEngName": "East Dist."
+      },
+      {
+        "id": 75,
+        "cityId": 73,
+        "zipCode": 300,
+        "areaName": "北區",
+        "areaEngName": "North Dist."
+      },
+      {
+        "id": 76,
+        "cityId": 73,
+        "zipCode": 300,
+        "areaName": "香山區",
+        "areaEngName": "Xiangshan Dist."
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "cityName": "新竹縣",
+    "cityEngName": "Hsinchu County",
+    "areas": [
+      {
+        "id": 78,
+        "cityId": 77,
+        "zipCode": 308,
+        "areaName": "寶山鄉",
+        "areaEngName": "Baoshan Township"
+      },
+      {
+        "id": 79,
+        "cityId": 77,
+        "zipCode": 302,
+        "areaName": "竹北市",
+        "areaEngName": "Zhubei City"
+      },
+      {
+        "id": 80,
+        "cityId": 77,
+        "zipCode": 303,
+        "areaName": "湖口鄉",
+        "areaEngName": "Hukou Township"
+      },
+      {
+        "id": 81,
+        "cityId": 77,
+        "zipCode": 304,
+        "areaName": "新豐鄉",
+        "areaEngName": "Xinfeng Township"
+      },
+      {
+        "id": 82,
+        "cityId": 77,
+        "zipCode": 305,
+        "areaName": "新埔鎮",
+        "areaEngName": "Xinpu Township"
+      },
+      {
+        "id": 83,
+        "cityId": 77,
+        "zipCode": 306,
+        "areaName": "關西鎮",
+        "areaEngName": "Guanxi Township"
+      },
+      {
+        "id": 84,
+        "cityId": 77,
+        "zipCode": 307,
+        "areaName": "芎林鄉",
+        "areaEngName": "Qionglin Township"
+      },
+      {
+        "id": 85,
+        "cityId": 77,
+        "zipCode": 310,
+        "areaName": "竹東鎮",
+        "areaEngName": "Zhudong Township"
+      },
+      {
+        "id": 86,
+        "cityId": 77,
+        "zipCode": 311,
+        "areaName": "五峰鄉",
+        "areaEngName": "Wufeng Township"
+      },
+      {
+        "id": 87,
+        "cityId": 77,
+        "zipCode": 312,
+        "areaName": "橫山鄉",
+        "areaEngName": "Hengshan Township"
+      },
+      {
+        "id": 88,
+        "cityId": 77,
+        "zipCode": 313,
+        "areaName": "尖石鄉",
+        "areaEngName": "Jianshi Township"
+      },
+      {
+        "id": 89,
+        "cityId": 77,
+        "zipCode": 314,
+        "areaName": "北埔鄉",
+        "areaEngName": "Beipu Township"
+      },
+      {
+        "id": 90,
+        "cityId": 77,
+        "zipCode": 315,
+        "areaName": "峨眉鄉",
+        "areaEngName": "Emei Township"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "cityName": "桃園市",
+    "cityEngName": "Taoyuan City",
+    "areas": [
+      {
+        "id": 92,
+        "cityId": 91,
+        "zipCode": 320,
+        "areaName": "中壢區",
+        "areaEngName": "Zhongli Dist."
+      },
+      {
+        "id": 93,
+        "cityId": 91,
+        "zipCode": 324,
+        "areaName": "平鎮區",
+        "areaEngName": "Pingzhen Dist."
+      },
+      {
+        "id": 94,
+        "cityId": 91,
+        "zipCode": 325,
+        "areaName": "龍潭區",
+        "areaEngName": "Longtan Dist."
+      },
+      {
+        "id": 95,
+        "cityId": 91,
+        "zipCode": 326,
+        "areaName": "楊梅區",
+        "areaEngName": "Yangmei Dist."
+      },
+      {
+        "id": 96,
+        "cityId": 91,
+        "zipCode": 327,
+        "areaName": "新屋區",
+        "areaEngName": "Xinwu Dist."
+      },
+      {
+        "id": 97,
+        "cityId": 91,
+        "zipCode": 328,
+        "areaName": "觀音區",
+        "areaEngName": "Guanyin Dist."
+      },
+      {
+        "id": 98,
+        "cityId": 91,
+        "zipCode": 330,
+        "areaName": "桃園區",
+        "areaEngName": "Taoyuan Dist."
+      },
+      {
+        "id": 99,
+        "cityId": 91,
+        "zipCode": 333,
+        "areaName": "龜山區",
+        "areaEngName": "Guishan Dist."
+      },
+      {
+        "id": 100,
+        "cityId": 91,
+        "zipCode": 334,
+        "areaName": "八德區",
+        "areaEngName": "Bade Dist."
+      },
+      {
+        "id": 101,
+        "cityId": 91,
+        "zipCode": 335,
+        "areaName": "大溪區",
+        "areaEngName": "Daxi Dist."
+      },
+      {
+        "id": 102,
+        "cityId": 91,
+        "zipCode": 336,
+        "areaName": "復興區",
+        "areaEngName": "Fuxing Dist."
+      },
+      {
+        "id": 103,
+        "cityId": 91,
+        "zipCode": 337,
+        "areaName": "大園區",
+        "areaEngName": "Dayuan Dist."
+      },
+      {
+        "id": 104,
+        "cityId": 91,
+        "zipCode": 338,
+        "areaName": "蘆竹區",
+        "areaEngName": "Luzhu Dist."
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "cityName": "苗栗縣",
+    "cityEngName": "Miaoli County",
+    "areas": [
+      {
+        "id": 106,
+        "cityId": 105,
+        "zipCode": 350,
+        "areaName": "竹南鎮",
+        "areaEngName": "Zhunan Township"
+      },
+      {
+        "id": 107,
+        "cityId": 105,
+        "zipCode": 351,
+        "areaName": "頭份市",
+        "areaEngName": "Toufen City"
+      },
+      {
+        "id": 108,
+        "cityId": 105,
+        "zipCode": 352,
+        "areaName": "三灣鄉",
+        "areaEngName": "Sanwan Township"
+      },
+      {
+        "id": 109,
+        "cityId": 105,
+        "zipCode": 353,
+        "areaName": "南庄鄉",
+        "areaEngName": "Nanzhuang Township"
+      },
+      {
+        "id": 110,
+        "cityId": 105,
+        "zipCode": 354,
+        "areaName": "獅潭鄉",
+        "areaEngName": "Shitan Township"
+      },
+      {
+        "id": 111,
+        "cityId": 105,
+        "zipCode": 356,
+        "areaName": "後龍鎮",
+        "areaEngName": "Houlong Township"
+      },
+      {
+        "id": 112,
+        "cityId": 105,
+        "zipCode": 357,
+        "areaName": "通霄鎮",
+        "areaEngName": "Tongxiao Township"
+      },
+      {
+        "id": 113,
+        "cityId": 105,
+        "zipCode": 358,
+        "areaName": "苑裡鎮",
+        "areaEngName": "Yuanli Township"
+      },
+      {
+        "id": 114,
+        "cityId": 105,
+        "zipCode": 360,
+        "areaName": "苗栗市",
+        "areaEngName": "Miaoli City"
+      },
+      {
+        "id": 115,
+        "cityId": 105,
+        "zipCode": 361,
+        "areaName": "造橋鄉",
+        "areaEngName": "Zaoqiao Township"
+      },
+      {
+        "id": 116,
+        "cityId": 105,
+        "zipCode": 362,
+        "areaName": "頭屋鄉",
+        "areaEngName": "Touwu Township"
+      },
+      {
+        "id": 117,
+        "cityId": 105,
+        "zipCode": 363,
+        "areaName": "公館鄉",
+        "areaEngName": "Gongguan Township"
+      },
+      {
+        "id": 118,
+        "cityId": 105,
+        "zipCode": 364,
+        "areaName": "大湖鄉",
+        "areaEngName": "Dahu Township"
+      },
+      {
+        "id": 119,
+        "cityId": 105,
+        "zipCode": 365,
+        "areaName": "泰安鄉",
+        "areaEngName": "Tai’an Township"
+      },
+      {
+        "id": 120,
+        "cityId": 105,
+        "zipCode": 366,
+        "areaName": "銅鑼鄉",
+        "areaEngName": "Tongluo Township"
+      },
+      {
+        "id": 121,
+        "cityId": 105,
+        "zipCode": 367,
+        "areaName": "三義鄉",
+        "areaEngName": "Sanyi Township"
+      },
+      {
+        "id": 122,
+        "cityId": 105,
+        "zipCode": 368,
+        "areaName": "西湖鄉",
+        "areaEngName": "Xihu Township"
+      },
+      {
+        "id": 123,
+        "cityId": 105,
+        "zipCode": 369,
+        "areaName": "卓蘭鎮",
+        "areaEngName": "Zhuolan Township"
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "cityName": "臺中市",
+    "cityEngName": "Taichung City",
+    "areas": [
+      {
+        "id": 125,
+        "cityId": 124,
+        "zipCode": 400,
+        "areaName": "中區",
+        "areaEngName": "Central Dist."
+      },
+      {
+        "id": 126,
+        "cityId": 124,
+        "zipCode": 401,
+        "areaName": "東區",
+        "areaEngName": "East Dist."
+      },
+      {
+        "id": 127,
+        "cityId": 124,
+        "zipCode": 402,
+        "areaName": "南區",
+        "areaEngName": "South Dist."
+      },
+      {
+        "id": 128,
+        "cityId": 124,
+        "zipCode": 403,
+        "areaName": "西區",
+        "areaEngName": "West Dist."
+      },
+      {
+        "id": 129,
+        "cityId": 124,
+        "zipCode": 404,
+        "areaName": "北區",
+        "areaEngName": "North Dist."
+      },
+      {
+        "id": 130,
+        "cityId": 124,
+        "zipCode": 406,
+        "areaName": "北屯區",
+        "areaEngName": "Beitun Dist."
+      },
+      {
+        "id": 131,
+        "cityId": 124,
+        "zipCode": 407,
+        "areaName": "西屯區",
+        "areaEngName": "Xitun Dist."
+      },
+      {
+        "id": 132,
+        "cityId": 124,
+        "zipCode": 408,
+        "areaName": "南屯區",
+        "areaEngName": "Nantun Dist."
+      },
+      {
+        "id": 133,
+        "cityId": 124,
+        "zipCode": 411,
+        "areaName": "太平區",
+        "areaEngName": "Taiping Dist."
+      },
+      {
+        "id": 134,
+        "cityId": 124,
+        "zipCode": 412,
+        "areaName": "大里區",
+        "areaEngName": "Dali Dist."
+      },
+      {
+        "id": 135,
+        "cityId": 124,
+        "zipCode": 413,
+        "areaName": "霧峰區",
+        "areaEngName": "Wufeng Dist."
+      },
+      {
+        "id": 136,
+        "cityId": 124,
+        "zipCode": 414,
+        "areaName": "烏日區",
+        "areaEngName": "Wuri Dist."
+      },
+      {
+        "id": 137,
+        "cityId": 124,
+        "zipCode": 420,
+        "areaName": "豐原區",
+        "areaEngName": "Fengyuan Dist."
+      },
+      {
+        "id": 138,
+        "cityId": 124,
+        "zipCode": 421,
+        "areaName": "后里區",
+        "areaEngName": "Houli Dist."
+      },
+      {
+        "id": 139,
+        "cityId": 124,
+        "zipCode": 422,
+        "areaName": "石岡區",
+        "areaEngName": "Shigang Dist."
+      },
+      {
+        "id": 140,
+        "cityId": 124,
+        "zipCode": 423,
+        "areaName": "東勢區",
+        "areaEngName": "Dongshi Dist."
+      },
+      {
+        "id": 141,
+        "cityId": 124,
+        "zipCode": 424,
+        "areaName": "和平區",
+        "areaEngName": "Heping Dist."
+      },
+      {
+        "id": 142,
+        "cityId": 124,
+        "zipCode": 426,
+        "areaName": "新社區",
+        "areaEngName": "Xinshe Dist."
+      },
+      {
+        "id": 143,
+        "cityId": 124,
+        "zipCode": 427,
+        "areaName": "潭子區",
+        "areaEngName": "Tanzi Dist."
+      },
+      {
+        "id": 144,
+        "cityId": 124,
+        "zipCode": 428,
+        "areaName": "大雅區",
+        "areaEngName": "Daya Dist."
+      },
+      {
+        "id": 145,
+        "cityId": 124,
+        "zipCode": 429,
+        "areaName": "神岡區",
+        "areaEngName": "Shengang Dist."
+      },
+      {
+        "id": 146,
+        "cityId": 124,
+        "zipCode": 432,
+        "areaName": "大肚區",
+        "areaEngName": "Dadu Dist."
+      },
+      {
+        "id": 147,
+        "cityId": 124,
+        "zipCode": 433,
+        "areaName": "沙鹿區",
+        "areaEngName": "Shalu Dist."
+      },
+      {
+        "id": 148,
+        "cityId": 124,
+        "zipCode": 434,
+        "areaName": "龍井區",
+        "areaEngName": "Longjing Dist."
+      },
+      {
+        "id": 149,
+        "cityId": 124,
+        "zipCode": 435,
+        "areaName": "梧棲區",
+        "areaEngName": "Wuqi Dist."
+      },
+      {
+        "id": 150,
+        "cityId": 124,
+        "zipCode": 436,
+        "areaName": "清水區",
+        "areaEngName": "Qingshui Dist."
+      },
+      {
+        "id": 151,
+        "cityId": 124,
+        "zipCode": 437,
+        "areaName": "大甲區",
+        "areaEngName": "Dajia Dist."
+      },
+      {
+        "id": 152,
+        "cityId": 124,
+        "zipCode": 438,
+        "areaName": "外埔區",
+        "areaEngName": "Waipu Dist."
+      },
+      {
+        "id": 153,
+        "cityId": 124,
+        "zipCode": 439,
+        "areaName": "大安區",
+        "areaEngName": "Da’an Dist."
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "cityName": "彰化縣",
+    "cityEngName": "Changhua County",
+    "areas": [
+      {
+        "id": 155,
+        "cityId": 154,
+        "zipCode": 500,
+        "areaName": "彰化市",
+        "areaEngName": "Changhua City"
+      },
+      {
+        "id": 156,
+        "cityId": 154,
+        "zipCode": 502,
+        "areaName": "芬園鄉",
+        "areaEngName": "Fenyuan Township"
+      },
+      {
+        "id": 157,
+        "cityId": 154,
+        "zipCode": 503,
+        "areaName": "花壇鄉",
+        "areaEngName": "Huatan Township"
+      },
+      {
+        "id": 158,
+        "cityId": 154,
+        "zipCode": 504,
+        "areaName": "秀水鄉",
+        "areaEngName": "Xiushui Township"
+      },
+      {
+        "id": 159,
+        "cityId": 154,
+        "zipCode": 505,
+        "areaName": "鹿港鎮",
+        "areaEngName": "Lukang Township"
+      },
+      {
+        "id": 160,
+        "cityId": 154,
+        "zipCode": 506,
+        "areaName": "福興鄉",
+        "areaEngName": "Fuxing Township"
+      },
+      {
+        "id": 161,
+        "cityId": 154,
+        "zipCode": 507,
+        "areaName": "線西鄉",
+        "areaEngName": "Xianxi Township"
+      },
+      {
+        "id": 162,
+        "cityId": 154,
+        "zipCode": 508,
+        "areaName": "和美鎮",
+        "areaEngName": "Hemei Township"
+      },
+      {
+        "id": 163,
+        "cityId": 154,
+        "zipCode": 509,
+        "areaName": "伸港鄉",
+        "areaEngName": "Shengang Township"
+      },
+      {
+        "id": 164,
+        "cityId": 154,
+        "zipCode": 510,
+        "areaName": "員林市",
+        "areaEngName": "Yuanlin City"
+      },
+      {
+        "id": 165,
+        "cityId": 154,
+        "zipCode": 511,
+        "areaName": "社頭鄉",
+        "areaEngName": "Shetou Township"
+      },
+      {
+        "id": 166,
+        "cityId": 154,
+        "zipCode": 512,
+        "areaName": "永靖鄉",
+        "areaEngName": "Yongjing Township"
+      },
+      {
+        "id": 167,
+        "cityId": 154,
+        "zipCode": 513,
+        "areaName": "埔心鄉",
+        "areaEngName": "Puxin Township"
+      },
+      {
+        "id": 168,
+        "cityId": 154,
+        "zipCode": 514,
+        "areaName": "溪湖鎮",
+        "areaEngName": "Xihu Township"
+      },
+      {
+        "id": 169,
+        "cityId": 154,
+        "zipCode": 515,
+        "areaName": "大村鄉",
+        "areaEngName": "Dacun Township"
+      },
+      {
+        "id": 170,
+        "cityId": 154,
+        "zipCode": 516,
+        "areaName": "埔鹽鄉",
+        "areaEngName": "Puyan Township"
+      },
+      {
+        "id": 171,
+        "cityId": 154,
+        "zipCode": 520,
+        "areaName": "田中鎮",
+        "areaEngName": "Tianzhong Township"
+      },
+      {
+        "id": 172,
+        "cityId": 154,
+        "zipCode": 521,
+        "areaName": "北斗鎮",
+        "areaEngName": "Beidou Township"
+      },
+      {
+        "id": 173,
+        "cityId": 154,
+        "zipCode": 522,
+        "areaName": "田尾鄉",
+        "areaEngName": "Tianwei Township"
+      },
+      {
+        "id": 174,
+        "cityId": 154,
+        "zipCode": 523,
+        "areaName": "埤頭鄉",
+        "areaEngName": "Pitou Township"
+      },
+      {
+        "id": 175,
+        "cityId": 154,
+        "zipCode": 524,
+        "areaName": "溪州鄉",
+        "areaEngName": "Xizhou Township"
+      },
+      {
+        "id": 176,
+        "cityId": 154,
+        "zipCode": 525,
+        "areaName": "竹塘鄉",
+        "areaEngName": "Zhutang Township"
+      },
+      {
+        "id": 177,
+        "cityId": 154,
+        "zipCode": 526,
+        "areaName": "二林鎮",
+        "areaEngName": "Erlin Township"
+      },
+      {
+        "id": 178,
+        "cityId": 154,
+        "zipCode": 527,
+        "areaName": "大城鄉",
+        "areaEngName": "Dacheng Township"
+      },
+      {
+        "id": 179,
+        "cityId": 154,
+        "zipCode": 528,
+        "areaName": "芳苑鄉",
+        "areaEngName": "Fangyuan Township"
+      },
+      {
+        "id": 180,
+        "cityId": 154,
+        "zipCode": 530,
+        "areaName": "二水鄉",
+        "areaEngName": "Ershui Township"
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "cityName": "南投縣",
+    "cityEngName": "Nantou County",
+    "areas": [
+      {
+        "id": 182,
+        "cityId": 181,
+        "zipCode": 540,
+        "areaName": "南投市",
+        "areaEngName": "Nantou City"
+      },
+      {
+        "id": 183,
+        "cityId": 181,
+        "zipCode": 541,
+        "areaName": "中寮鄉",
+        "areaEngName": "Zhongliao Township"
+      },
+      {
+        "id": 184,
+        "cityId": 181,
+        "zipCode": 542,
+        "areaName": "草屯鎮",
+        "areaEngName": "Caotun Township"
+      },
+      {
+        "id": 185,
+        "cityId": 181,
+        "zipCode": 544,
+        "areaName": "國姓鄉",
+        "areaEngName": "Guoxing Township"
+      },
+      {
+        "id": 186,
+        "cityId": 181,
+        "zipCode": 545,
+        "areaName": "埔里鎮",
+        "areaEngName": "Puli Township"
+      },
+      {
+        "id": 187,
+        "cityId": 181,
+        "zipCode": 546,
+        "areaName": "仁愛鄉",
+        "areaEngName": "Ren’ai Township"
+      },
+      {
+        "id": 188,
+        "cityId": 181,
+        "zipCode": 551,
+        "areaName": "名間鄉",
+        "areaEngName": "Mingjian Township"
+      },
+      {
+        "id": 189,
+        "cityId": 181,
+        "zipCode": 552,
+        "areaName": "集集鎮",
+        "areaEngName": "Jiji Township"
+      },
+      {
+        "id": 190,
+        "cityId": 181,
+        "zipCode": 553,
+        "areaName": "水里鄉",
+        "areaEngName": "Shuili Township"
+      },
+      {
+        "id": 191,
+        "cityId": 181,
+        "zipCode": 555,
+        "areaName": "魚池鄉",
+        "areaEngName": "Yuchi Township"
+      },
+      {
+        "id": 192,
+        "cityId": 181,
+        "zipCode": 556,
+        "areaName": "信義鄉",
+        "areaEngName": "Xinyi Township"
+      },
+      {
+        "id": 193,
+        "cityId": 181,
+        "zipCode": 557,
+        "areaName": "竹山鎮",
+        "areaEngName": "Zhushan Township"
+      },
+      {
+        "id": 194,
+        "cityId": 181,
+        "zipCode": 558,
+        "areaName": "鹿谷鄉",
+        "areaEngName": "Lugu Township"
+      }
+    ]
+  },
+  {
+    "id": 195,
+    "cityName": "嘉義市",
+    "cityEngName": "Chiayi City",
+    "areas": [
+      {
+        "id": 196,
+        "cityId": 195,
+        "zipCode": 600,
+        "areaName": "西區",
+        "areaEngName": "West Dist."
+      },
+      {
+        "id": 197,
+        "cityId": 195,
+        "zipCode": 600,
+        "areaName": "東區",
+        "areaEngName": "East Dist."
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "cityName": "嘉義縣",
+    "cityEngName": "Chiayi County",
+    "areas": [
+      {
+        "id": 199,
+        "cityId": 198,
+        "zipCode": 602,
+        "areaName": "番路鄉",
+        "areaEngName": "Fanlu Township"
+      },
+      {
+        "id": 200,
+        "cityId": 198,
+        "zipCode": 603,
+        "areaName": "梅山鄉",
+        "areaEngName": "Meishan Township"
+      },
+      {
+        "id": 201,
+        "cityId": 198,
+        "zipCode": 604,
+        "areaName": "竹崎鄉",
+        "areaEngName": "Zhuqi Township"
+      },
+      {
+        "id": 202,
+        "cityId": 198,
+        "zipCode": 605,
+        "areaName": "阿里山鄉",
+        "areaEngName": "Alishan Township"
+      },
+      {
+        "id": 203,
+        "cityId": 198,
+        "zipCode": 606,
+        "areaName": "中埔鄉",
+        "areaEngName": "Zhongpu Township"
+      },
+      {
+        "id": 204,
+        "cityId": 198,
+        "zipCode": 607,
+        "areaName": "大埔鄉",
+        "areaEngName": "Dapu Township"
+      },
+      {
+        "id": 205,
+        "cityId": 198,
+        "zipCode": 608,
+        "areaName": "水上鄉",
+        "areaEngName": "Shuishang Township"
+      },
+      {
+        "id": 206,
+        "cityId": 198,
+        "zipCode": 611,
+        "areaName": "鹿草鄉",
+        "areaEngName": "Lucao Township"
+      },
+      {
+        "id": 207,
+        "cityId": 198,
+        "zipCode": 612,
+        "areaName": "太保市",
+        "areaEngName": "Taibao City"
+      },
+      {
+        "id": 208,
+        "cityId": 198,
+        "zipCode": 613,
+        "areaName": "朴子市",
+        "areaEngName": "Puzi City"
+      },
+      {
+        "id": 209,
+        "cityId": 198,
+        "zipCode": 614,
+        "areaName": "東石鄉",
+        "areaEngName": "Dongshi Township"
+      },
+      {
+        "id": 210,
+        "cityId": 198,
+        "zipCode": 615,
+        "areaName": "六腳鄉",
+        "areaEngName": "Liujiao Township"
+      },
+      {
+        "id": 211,
+        "cityId": 198,
+        "zipCode": 616,
+        "areaName": "新港鄉",
+        "areaEngName": "Xingang Township"
+      },
+      {
+        "id": 212,
+        "cityId": 198,
+        "zipCode": 621,
+        "areaName": "民雄鄉",
+        "areaEngName": "Minxiong Township"
+      },
+      {
+        "id": 213,
+        "cityId": 198,
+        "zipCode": 622,
+        "areaName": "大林鎮",
+        "areaEngName": "Dalin Township"
+      },
+      {
+        "id": 214,
+        "cityId": 198,
+        "zipCode": 623,
+        "areaName": "溪口鄉",
+        "areaEngName": "Xikou Township"
+      },
+      {
+        "id": 215,
+        "cityId": 198,
+        "zipCode": 624,
+        "areaName": "義竹鄉",
+        "areaEngName": "Yizhu Township"
+      },
+      {
+        "id": 216,
+        "cityId": 198,
+        "zipCode": 625,
+        "areaName": "布袋鎮",
+        "areaEngName": "Budai Township"
+      }
+    ]
+  },
+  {
+    "id": 217,
+    "cityName": "雲林縣",
+    "cityEngName": "Yunlin County",
+    "areas": [
+      {
+        "id": 218,
+        "cityId": 217,
+        "zipCode": 630,
+        "areaName": "斗南鎮",
+        "areaEngName": "Dounan Township"
+      },
+      {
+        "id": 219,
+        "cityId": 217,
+        "zipCode": 631,
+        "areaName": "大埤鄉",
+        "areaEngName": "Dapi Township"
+      },
+      {
+        "id": 220,
+        "cityId": 217,
+        "zipCode": 632,
+        "areaName": "虎尾鎮",
+        "areaEngName": "Huwei Township"
+      },
+      {
+        "id": 221,
+        "cityId": 217,
+        "zipCode": 633,
+        "areaName": "土庫鎮",
+        "areaEngName": "Tuku Township"
+      },
+      {
+        "id": 222,
+        "cityId": 217,
+        "zipCode": 634,
+        "areaName": "褒忠鄉",
+        "areaEngName": "Baozhong Township"
+      },
+      {
+        "id": 223,
+        "cityId": 217,
+        "zipCode": 635,
+        "areaName": "東勢鄉",
+        "areaEngName": "Dongshi Township"
+      },
+      {
+        "id": 224,
+        "cityId": 217,
+        "zipCode": 636,
+        "areaName": "臺西鄉",
+        "areaEngName": "Taixi Township"
+      },
+      {
+        "id": 225,
+        "cityId": 217,
+        "zipCode": 637,
+        "areaName": "崙背鄉",
+        "areaEngName": "Lunbei Township"
+      },
+      {
+        "id": 226,
+        "cityId": 217,
+        "zipCode": 638,
+        "areaName": "麥寮鄉",
+        "areaEngName": "Mailiao Township"
+      },
+      {
+        "id": 227,
+        "cityId": 217,
+        "zipCode": 640,
+        "areaName": "斗六市",
+        "areaEngName": "Douliu City"
+      },
+      {
+        "id": 228,
+        "cityId": 217,
+        "zipCode": 643,
+        "areaName": "林內鄉",
+        "areaEngName": "Linnei Township"
+      },
+      {
+        "id": 229,
+        "cityId": 217,
+        "zipCode": 646,
+        "areaName": "古坑鄉",
+        "areaEngName": "Gukeng Township"
+      },
+      {
+        "id": 230,
+        "cityId": 217,
+        "zipCode": 647,
+        "areaName": "莿桐鄉",
+        "areaEngName": "Citong Township"
+      },
+      {
+        "id": 231,
+        "cityId": 217,
+        "zipCode": 648,
+        "areaName": "西螺鎮",
+        "areaEngName": "Xiluo Township"
+      },
+      {
+        "id": 232,
+        "cityId": 217,
+        "zipCode": 649,
+        "areaName": "二崙鄉",
+        "areaEngName": "Erlun Township"
+      },
+      {
+        "id": 233,
+        "cityId": 217,
+        "zipCode": 651,
+        "areaName": "北港鎮",
+        "areaEngName": "Beigang Township"
+      },
+      {
+        "id": 234,
+        "cityId": 217,
+        "zipCode": 652,
+        "areaName": "水林鄉",
+        "areaEngName": "Shuilin Township"
+      },
+      {
+        "id": 235,
+        "cityId": 217,
+        "zipCode": 653,
+        "areaName": "口湖鄉",
+        "areaEngName": "Kouhu Township"
+      },
+      {
+        "id": 236,
+        "cityId": 217,
+        "zipCode": 654,
+        "areaName": "四湖鄉",
+        "areaEngName": "Sihu Township"
+      },
+      {
+        "id": 237,
+        "cityId": 217,
+        "zipCode": 655,
+        "areaName": "元長鄉",
+        "areaEngName": "Yuanchang Township"
+      }
+    ]
+  },
+  {
+    "id": 238,
+    "cityName": "臺南市",
+    "cityEngName": "Tainan City",
+    "areas": [
+      {
+        "id": 239,
+        "cityId": 238,
+        "zipCode": 700,
+        "areaName": "中西區",
+        "areaEngName": "West Central Dist."
+      },
+      {
+        "id": 240,
+        "cityId": 238,
+        "zipCode": 701,
+        "areaName": "東區",
+        "areaEngName": "East Dist."
+      },
+      {
+        "id": 241,
+        "cityId": 238,
+        "zipCode": 702,
+        "areaName": "南區",
+        "areaEngName": "South Dist."
+      },
+      {
+        "id": 242,
+        "cityId": 238,
+        "zipCode": 704,
+        "areaName": "北區",
+        "areaEngName": "North Dist."
+      },
+      {
+        "id": 243,
+        "cityId": 238,
+        "zipCode": 708,
+        "areaName": "安平區",
+        "areaEngName": "Anping Dist."
+      },
+      {
+        "id": 244,
+        "cityId": 238,
+        "zipCode": 709,
+        "areaName": "安南區",
+        "areaEngName": "Annan Dist."
+      },
+      {
+        "id": 245,
+        "cityId": 238,
+        "zipCode": 710,
+        "areaName": "永康區",
+        "areaEngName": "Yongkang Dist."
+      },
+      {
+        "id": 246,
+        "cityId": 238,
+        "zipCode": 711,
+        "areaName": "歸仁區",
+        "areaEngName": "Guiren Dist."
+      },
+      {
+        "id": 247,
+        "cityId": 238,
+        "zipCode": 712,
+        "areaName": "新化區",
+        "areaEngName": "Xinhua Dist."
+      },
+      {
+        "id": 248,
+        "cityId": 238,
+        "zipCode": 713,
+        "areaName": "左鎮區",
+        "areaEngName": "Zuozhen Dist."
+      },
+      {
+        "id": 249,
+        "cityId": 238,
+        "zipCode": 714,
+        "areaName": "玉井區",
+        "areaEngName": "Yujing Dist."
+      },
+      {
+        "id": 250,
+        "cityId": 238,
+        "zipCode": 715,
+        "areaName": "楠西區",
+        "areaEngName": "Nanxi Dist."
+      },
+      {
+        "id": 251,
+        "cityId": 238,
+        "zipCode": 716,
+        "areaName": "南化區",
+        "areaEngName": "Nanhua Dist."
+      },
+      {
+        "id": 252,
+        "cityId": 238,
+        "zipCode": 717,
+        "areaName": "仁德區",
+        "areaEngName": "Rende Dist."
+      },
+      {
+        "id": 253,
+        "cityId": 238,
+        "zipCode": 718,
+        "areaName": "關廟區",
+        "areaEngName": "Guanmiao Dist."
+      },
+      {
+        "id": 254,
+        "cityId": 238,
+        "zipCode": 719,
+        "areaName": "龍崎區",
+        "areaEngName": "Longqi Dist."
+      },
+      {
+        "id": 255,
+        "cityId": 238,
+        "zipCode": 720,
+        "areaName": "官田區",
+        "areaEngName": "Guantian Dist."
+      },
+      {
+        "id": 256,
+        "cityId": 238,
+        "zipCode": 721,
+        "areaName": "麻豆區",
+        "areaEngName": "Madou Dist."
+      },
+      {
+        "id": 257,
+        "cityId": 238,
+        "zipCode": 722,
+        "areaName": "佳里區",
+        "areaEngName": "Jiali Dist."
+      },
+      {
+        "id": 258,
+        "cityId": 238,
+        "zipCode": 723,
+        "areaName": "西港區",
+        "areaEngName": "Xigang Dist."
+      },
+      {
+        "id": 259,
+        "cityId": 238,
+        "zipCode": 724,
+        "areaName": "七股區",
+        "areaEngName": "Qigu Dist."
+      },
+      {
+        "id": 260,
+        "cityId": 238,
+        "zipCode": 725,
+        "areaName": "將軍區",
+        "areaEngName": "Jiangjun Dist."
+      },
+      {
+        "id": 261,
+        "cityId": 238,
+        "zipCode": 726,
+        "areaName": "學甲區",
+        "areaEngName": "Xuejia Dist."
+      },
+      {
+        "id": 262,
+        "cityId": 238,
+        "zipCode": 727,
+        "areaName": "北門區",
+        "areaEngName": "Beimen Dist."
+      },
+      {
+        "id": 263,
+        "cityId": 238,
+        "zipCode": 730,
+        "areaName": "新營區",
+        "areaEngName": "Xinying Dist."
+      },
+      {
+        "id": 264,
+        "cityId": 238,
+        "zipCode": 731,
+        "areaName": "後壁區",
+        "areaEngName": "Houbi Dist."
+      },
+      {
+        "id": 265,
+        "cityId": 238,
+        "zipCode": 732,
+        "areaName": "白河區",
+        "areaEngName": "Baihe Dist."
+      },
+      {
+        "id": 266,
+        "cityId": 238,
+        "zipCode": 733,
+        "areaName": "東山區",
+        "areaEngName": "Dongshan Dist."
+      },
+      {
+        "id": 267,
+        "cityId": 238,
+        "zipCode": 734,
+        "areaName": "六甲區",
+        "areaEngName": "Liujia Dist."
+      },
+      {
+        "id": 268,
+        "cityId": 238,
+        "zipCode": 735,
+        "areaName": "下營區",
+        "areaEngName": "Xiaying Dist."
+      },
+      {
+        "id": 269,
+        "cityId": 238,
+        "zipCode": 736,
+        "areaName": "柳營區",
+        "areaEngName": "Liuying Dist."
+      },
+      {
+        "id": 270,
+        "cityId": 238,
+        "zipCode": 737,
+        "areaName": "鹽水區",
+        "areaEngName": "Yanshui Dist."
+      },
+      {
+        "id": 271,
+        "cityId": 238,
+        "zipCode": 741,
+        "areaName": "善化區",
+        "areaEngName": "Shanhua Dist."
+      },
+      {
+        "id": 272,
+        "cityId": 238,
+        "zipCode": 744,
+        "areaName": "新市區",
+        "areaEngName": "Xinshi Dist."
+      },
+      {
+        "id": 273,
+        "cityId": 238,
+        "zipCode": 742,
+        "areaName": "大內區",
+        "areaEngName": "Danei Dist."
+      },
+      {
+        "id": 274,
+        "cityId": 238,
+        "zipCode": 743,
+        "areaName": "山上區",
+        "areaEngName": "Shanshang Dist."
+      },
+      {
+        "id": 275,
+        "cityId": 238,
+        "zipCode": 745,
+        "areaName": "安定區",
+        "areaEngName": "Anding Dist."
+      }
+    ]
+  },
+  {
+    "id": 276,
+    "cityName": "高雄市",
+    "cityEngName": "Kaohsiung City",
+    "areas": [
+      {
+        "id": 277,
+        "cityId": 276,
+        "zipCode": 800,
+        "areaName": "新興區",
+        "areaEngName": "Xinxing Dist."
+      },
+      {
+        "id": 278,
+        "cityId": 276,
+        "zipCode": 801,
+        "areaName": "前金區",
+        "areaEngName": "Qianjin Dist."
+      },
+      {
+        "id": 279,
+        "cityId": 276,
+        "zipCode": 802,
+        "areaName": "苓雅區",
+        "areaEngName": "Lingya Dist."
+      },
+      {
+        "id": 280,
+        "cityId": 276,
+        "zipCode": 803,
+        "areaName": "鹽埕區",
+        "areaEngName": "Yancheng Dist."
+      },
+      {
+        "id": 281,
+        "cityId": 276,
+        "zipCode": 804,
+        "areaName": "鼓山區",
+        "areaEngName": "Gushan Dist."
+      },
+      {
+        "id": 282,
+        "cityId": 276,
+        "zipCode": 805,
+        "areaName": "旗津區",
+        "areaEngName": "Qijin Dist."
+      },
+      {
+        "id": 283,
+        "cityId": 276,
+        "zipCode": 806,
+        "areaName": "前鎮區",
+        "areaEngName": "Qianzhen Dist."
+      },
+      {
+        "id": 284,
+        "cityId": 276,
+        "zipCode": 807,
+        "areaName": "三民區",
+        "areaEngName": "Sanmin Dist."
+      },
+      {
+        "id": 285,
+        "cityId": 276,
+        "zipCode": 811,
+        "areaName": "楠梓區",
+        "areaEngName": "Nanzi Dist."
+      },
+      {
+        "id": 286,
+        "cityId": 276,
+        "zipCode": 812,
+        "areaName": "小港區",
+        "areaEngName": "Xiaogang Dist."
+      },
+      {
+        "id": 287,
+        "cityId": 276,
+        "zipCode": 813,
+        "areaName": "左營區",
+        "areaEngName": "Zuoying Dist."
+      },
+      {
+        "id": 288,
+        "cityId": 276,
+        "zipCode": 814,
+        "areaName": "仁武區",
+        "areaEngName": "Renwu Dist."
+      },
+      {
+        "id": 289,
+        "cityId": 276,
+        "zipCode": 815,
+        "areaName": "大社區",
+        "areaEngName": "Dashe Dist."
+      },
+      {
+        "id": 290,
+        "cityId": 276,
+        "zipCode": 817,
+        "areaName": "東沙群島",
+        "areaEngName": "Dongsha Islands"
+      },
+      {
+        "id": 291,
+        "cityId": 276,
+        "zipCode": 819,
+        "areaName": "南沙群島",
+        "areaEngName": "Nansha Islands"
+      },
+      {
+        "id": 292,
+        "cityId": 276,
+        "zipCode": 820,
+        "areaName": "岡山區",
+        "areaEngName": "Gangshan Dist."
+      },
+      {
+        "id": 293,
+        "cityId": 276,
+        "zipCode": 821,
+        "areaName": "路竹區",
+        "areaEngName": "Luzhu Dist."
+      },
+      {
+        "id": 294,
+        "cityId": 276,
+        "zipCode": 822,
+        "areaName": "阿蓮區",
+        "areaEngName": "Alian Dist."
+      },
+      {
+        "id": 295,
+        "cityId": 276,
+        "zipCode": 823,
+        "areaName": "田寮區",
+        "areaEngName": "Tianliao Dist."
+      },
+      {
+        "id": 296,
+        "cityId": 276,
+        "zipCode": 824,
+        "areaName": "燕巢區",
+        "areaEngName": "Yanchao Dist."
+      },
+      {
+        "id": 297,
+        "cityId": 276,
+        "zipCode": 825,
+        "areaName": "橋頭區",
+        "areaEngName": "Qiaotou Dist."
+      },
+      {
+        "id": 298,
+        "cityId": 276,
+        "zipCode": 826,
+        "areaName": "梓官區",
+        "areaEngName": "Ziguan Dist."
+      },
+      {
+        "id": 299,
+        "cityId": 276,
+        "zipCode": 827,
+        "areaName": "彌陀區",
+        "areaEngName": "Mituo Dist."
+      },
+      {
+        "id": 300,
+        "cityId": 276,
+        "zipCode": 828,
+        "areaName": "永安區",
+        "areaEngName": "Yong’an Dist."
+      },
+      {
+        "id": 301,
+        "cityId": 276,
+        "zipCode": 829,
+        "areaName": "湖內區",
+        "areaEngName": "Hunei Dist."
+      },
+      {
+        "id": 302,
+        "cityId": 276,
+        "zipCode": 830,
+        "areaName": "鳳山區",
+        "areaEngName": "Fengshan Dist."
+      },
+      {
+        "id": 303,
+        "cityId": 276,
+        "zipCode": 831,
+        "areaName": "大寮區",
+        "areaEngName": "Daliao Dist."
+      },
+      {
+        "id": 304,
+        "cityId": 276,
+        "zipCode": 832,
+        "areaName": "林園區",
+        "areaEngName": "Linyuan Dist."
+      },
+      {
+        "id": 305,
+        "cityId": 276,
+        "zipCode": 833,
+        "areaName": "鳥松區",
+        "areaEngName": "Niaosong Dist."
+      },
+      {
+        "id": 306,
+        "cityId": 276,
+        "zipCode": 840,
+        "areaName": "大樹區",
+        "areaEngName": "Dashu Dist."
+      },
+      {
+        "id": 307,
+        "cityId": 276,
+        "zipCode": 842,
+        "areaName": "旗山區",
+        "areaEngName": "Qishan Dist."
+      },
+      {
+        "id": 308,
+        "cityId": 276,
+        "zipCode": 843,
+        "areaName": "美濃區",
+        "areaEngName": "Meinong Dist."
+      },
+      {
+        "id": 309,
+        "cityId": 276,
+        "zipCode": 844,
+        "areaName": "六龜區",
+        "areaEngName": "Liugui Dist."
+      },
+      {
+        "id": 310,
+        "cityId": 276,
+        "zipCode": 845,
+        "areaName": "內門區",
+        "areaEngName": "Neimen Dist."
+      },
+      {
+        "id": 311,
+        "cityId": 276,
+        "zipCode": 846,
+        "areaName": "杉林區",
+        "areaEngName": "Shanlin Dist."
+      },
+      {
+        "id": 312,
+        "cityId": 276,
+        "zipCode": 847,
+        "areaName": "甲仙區",
+        "areaEngName": "Jiaxian Dist."
+      },
+      {
+        "id": 313,
+        "cityId": 276,
+        "zipCode": 848,
+        "areaName": "桃源區",
+        "areaEngName": "Taoyuan Dist."
+      },
+      {
+        "id": 314,
+        "cityId": 276,
+        "zipCode": 849,
+        "areaName": "那瑪夏區",
+        "areaEngName": "Namaxia Dist."
+      },
+      {
+        "id": 315,
+        "cityId": 276,
+        "zipCode": 851,
+        "areaName": "茂林區",
+        "areaEngName": "Maolin Dist."
+      },
+      {
+        "id": 316,
+        "cityId": 276,
+        "zipCode": 852,
+        "areaName": "茄萣區",
+        "areaEngName": "Qieding Dist."
+      }
+    ]
+  },
+  {
+    "id": 317,
+    "cityName": "南海島",
+    "cityEngName": "Nanhai",
+    "areas": [
+      {
+        "id": 318,
+        "cityId": 317,
+        "zipCode": 817,
+        "areaName": "東沙群島",
+        "areaEngName": "Dongsha Islands"
+      },
+      {
+        "id": 319,
+        "cityId": 317,
+        "zipCode": 819,
+        "areaName": "南沙群島",
+        "areaEngName": "Nansha Islands"
+      }
+    ]
+  },
+  {
+    "id": 320,
+    "cityName": "澎湖縣",
+    "cityEngName": "Penghu County",
+    "areas": [
+      {
+        "id": 321,
+        "cityId": 320,
+        "zipCode": 880,
+        "areaName": "馬公市",
+        "areaEngName": "Magong City"
+      },
+      {
+        "id": 322,
+        "cityId": 320,
+        "zipCode": 881,
+        "areaName": "西嶼鄉",
+        "areaEngName": "Xiyu Township"
+      },
+      {
+        "id": 323,
+        "cityId": 320,
+        "zipCode": 882,
+        "areaName": "望安鄉",
+        "areaEngName": "Wang’an Township"
+      },
+      {
+        "id": 324,
+        "cityId": 320,
+        "zipCode": 883,
+        "areaName": "七美鄉",
+        "areaEngName": "Qimei Township"
+      },
+      {
+        "id": 325,
+        "cityId": 320,
+        "zipCode": 884,
+        "areaName": "白沙鄉",
+        "areaEngName": "Baisha Township"
+      },
+      {
+        "id": 326,
+        "cityId": 320,
+        "zipCode": 885,
+        "areaName": "湖西鄉",
+        "areaEngName": "Huxi Township"
+      }
+    ]
+  },
+  {
+    "id": 327,
+    "cityName": "金門縣",
+    "cityEngName": "Kinmen County",
+    "areas": [
+      {
+        "id": 328,
+        "cityId": 327,
+        "zipCode": 890,
+        "areaName": "金沙鎮",
+        "areaEngName": "Jinsha Township"
+      },
+      {
+        "id": 329,
+        "cityId": 327,
+        "zipCode": 891,
+        "areaName": "金湖鎮",
+        "areaEngName": "Jinhu Township"
+      },
+      {
+        "id": 330,
+        "cityId": 327,
+        "zipCode": 892,
+        "areaName": "金寧鄉",
+        "areaEngName": "Jinning Township"
+      },
+      {
+        "id": 331,
+        "cityId": 327,
+        "zipCode": 893,
+        "areaName": "金城鎮",
+        "areaEngName": "Jincheng Township"
+      },
+      {
+        "id": 332,
+        "cityId": 327,
+        "zipCode": 894,
+        "areaName": "烈嶼鄉",
+        "areaEngName": "Lieyu Township"
+      },
+      {
+        "id": 333,
+        "cityId": 327,
+        "zipCode": 896,
+        "areaName": "烏坵鄉",
+        "areaEngName": "Wuqiu Township"
+      }
+    ]
+  },
+  {
+    "id": 334,
+    "cityName": "屏東縣",
+    "cityEngName": "Pingtung County",
+    "areas": [
+      {
+        "id": 335,
+        "cityId": 334,
+        "zipCode": 900,
+        "areaName": "屏東市",
+        "areaEngName": "Pingtung City"
+      },
+      {
+        "id": 336,
+        "cityId": 334,
+        "zipCode": 901,
+        "areaName": "三地門鄉",
+        "areaEngName": "Sandimen Township"
+      },
+      {
+        "id": 337,
+        "cityId": 334,
+        "zipCode": 902,
+        "areaName": "霧臺鄉",
+        "areaEngName": "Wutai Township"
+      },
+      {
+        "id": 338,
+        "cityId": 334,
+        "zipCode": 903,
+        "areaName": "瑪家鄉",
+        "areaEngName": "Majia Township"
+      },
+      {
+        "id": 339,
+        "cityId": 334,
+        "zipCode": 904,
+        "areaName": "九如鄉",
+        "areaEngName": "Jiuru Township"
+      },
+      {
+        "id": 340,
+        "cityId": 334,
+        "zipCode": 905,
+        "areaName": "里港鄉",
+        "areaEngName": "Ligang Township"
+      },
+      {
+        "id": 341,
+        "cityId": 334,
+        "zipCode": 906,
+        "areaName": "高樹鄉",
+        "areaEngName": "Gaoshu Township"
+      },
+      {
+        "id": 342,
+        "cityId": 334,
+        "zipCode": 907,
+        "areaName": "鹽埔鄉",
+        "areaEngName": "Yanpu Township"
+      },
+      {
+        "id": 343,
+        "cityId": 334,
+        "zipCode": 908,
+        "areaName": "長治鄉",
+        "areaEngName": "Changzhi Township"
+      },
+      {
+        "id": 344,
+        "cityId": 334,
+        "zipCode": 909,
+        "areaName": "麟洛鄉",
+        "areaEngName": "Linluo Township"
+      },
+      {
+        "id": 345,
+        "cityId": 334,
+        "zipCode": 911,
+        "areaName": "竹田鄉",
+        "areaEngName": "Zhutian Township"
+      },
+      {
+        "id": 346,
+        "cityId": 334,
+        "zipCode": 912,
+        "areaName": "內埔鄉",
+        "areaEngName": "Neipu Township"
+      },
+      {
+        "id": 347,
+        "cityId": 334,
+        "zipCode": 913,
+        "areaName": "萬丹鄉",
+        "areaEngName": "Wandan Township"
+      },
+      {
+        "id": 348,
+        "cityId": 334,
+        "zipCode": 920,
+        "areaName": "潮州鎮",
+        "areaEngName": "Chaozhou Township"
+      },
+      {
+        "id": 349,
+        "cityId": 334,
+        "zipCode": 921,
+        "areaName": "泰武鄉",
+        "areaEngName": "Taiwu Township"
+      },
+      {
+        "id": 350,
+        "cityId": 334,
+        "zipCode": 922,
+        "areaName": "來義鄉",
+        "areaEngName": "Laiyi Township"
+      },
+      {
+        "id": 351,
+        "cityId": 334,
+        "zipCode": 923,
+        "areaName": "萬巒鄉",
+        "areaEngName": "Wanluan Township"
+      },
+      {
+        "id": 352,
+        "cityId": 334,
+        "zipCode": 924,
+        "areaName": "崁頂鄉",
+        "areaEngName": "Kanding Township"
+      },
+      {
+        "id": 353,
+        "cityId": 334,
+        "zipCode": 925,
+        "areaName": "新埤鄉",
+        "areaEngName": "Xinpi Township"
+      },
+      {
+        "id": 354,
+        "cityId": 334,
+        "zipCode": 926,
+        "areaName": "南州鄉",
+        "areaEngName": "Nanzhou Township"
+      },
+      {
+        "id": 355,
+        "cityId": 334,
+        "zipCode": 927,
+        "areaName": "林邊鄉",
+        "areaEngName": "Linbian Township"
+      },
+      {
+        "id": 356,
+        "cityId": 334,
+        "zipCode": 928,
+        "areaName": "東港鎮",
+        "areaEngName": "Donggang Township"
+      },
+      {
+        "id": 357,
+        "cityId": 334,
+        "zipCode": 929,
+        "areaName": "琉球鄉",
+        "areaEngName": "Liuqiu Township"
+      },
+      {
+        "id": 358,
+        "cityId": 334,
+        "zipCode": 931,
+        "areaName": "佳冬鄉",
+        "areaEngName": "Jiadong Township"
+      },
+      {
+        "id": 359,
+        "cityId": 334,
+        "zipCode": 932,
+        "areaName": "新園鄉",
+        "areaEngName": "Xinyuan Township"
+      },
+      {
+        "id": 360,
+        "cityId": 334,
+        "zipCode": 940,
+        "areaName": "枋寮鄉",
+        "areaEngName": "Fangliao Township"
+      },
+      {
+        "id": 361,
+        "cityId": 334,
+        "zipCode": 941,
+        "areaName": "枋山鄉",
+        "areaEngName": "Fangshan Township"
+      },
+      {
+        "id": 362,
+        "cityId": 334,
+        "zipCode": 942,
+        "areaName": "春日鄉",
+        "areaEngName": "Chunri Township"
+      },
+      {
+        "id": 363,
+        "cityId": 334,
+        "zipCode": 943,
+        "areaName": "獅子鄉",
+        "areaEngName": "Shizi Township"
+      },
+      {
+        "id": 364,
+        "cityId": 334,
+        "zipCode": 944,
+        "areaName": "車城鄉",
+        "areaEngName": "Checheng Township"
+      },
+      {
+        "id": 365,
+        "cityId": 334,
+        "zipCode": 945,
+        "areaName": "牡丹鄉",
+        "areaEngName": "Mudan Township"
+      },
+      {
+        "id": 366,
+        "cityId": 334,
+        "zipCode": 946,
+        "areaName": "恆春鎮",
+        "areaEngName": "Hengchun Township"
+      },
+      {
+        "id": 367,
+        "cityId": 334,
+        "zipCode": 947,
+        "areaName": "滿州鄉",
+        "areaEngName": "Manzhou Township"
+      }
+    ]
+  },
+  {
+    "id": 368,
+    "cityName": "臺東縣",
+    "cityEngName": "Taitung County",
+    "areas": [
+      {
+        "id": 369,
+        "cityId": 368,
+        "zipCode": 950,
+        "areaName": "臺東市",
+        "areaEngName": "Taitung City"
+      },
+      {
+        "id": 370,
+        "cityId": 368,
+        "zipCode": 951,
+        "areaName": "綠島鄉",
+        "areaEngName": "Ludao Township"
+      },
+      {
+        "id": 371,
+        "cityId": 368,
+        "zipCode": 952,
+        "areaName": "蘭嶼鄉",
+        "areaEngName": "Lanyu Township"
+      },
+      {
+        "id": 372,
+        "cityId": 368,
+        "zipCode": 953,
+        "areaName": "延平鄉",
+        "areaEngName": "Yanping Township"
+      },
+      {
+        "id": 373,
+        "cityId": 368,
+        "zipCode": 954,
+        "areaName": "卑南鄉",
+        "areaEngName": "Beinan Township"
+      },
+      {
+        "id": 374,
+        "cityId": 368,
+        "zipCode": 955,
+        "areaName": "鹿野鄉",
+        "areaEngName": "Luye Township"
+      },
+      {
+        "id": 375,
+        "cityId": 368,
+        "zipCode": 956,
+        "areaName": "關山鎮",
+        "areaEngName": "Guanshan Township"
+      },
+      {
+        "id": 376,
+        "cityId": 368,
+        "zipCode": 957,
+        "areaName": "海端鄉",
+        "areaEngName": "Haiduan Township"
+      },
+      {
+        "id": 377,
+        "cityId": 368,
+        "zipCode": 958,
+        "areaName": "池上鄉",
+        "areaEngName": "Chishang Township"
+      },
+      {
+        "id": 378,
+        "cityId": 368,
+        "zipCode": 959,
+        "areaName": "東河鄉",
+        "areaEngName": "Donghe Township"
+      },
+      {
+        "id": 379,
+        "cityId": 368,
+        "zipCode": 961,
+        "areaName": "成功鎮",
+        "areaEngName": "Chenggong Township"
+      },
+      {
+        "id": 380,
+        "cityId": 368,
+        "zipCode": 962,
+        "areaName": "長濱鄉",
+        "areaEngName": "Changbin Township"
+      },
+      {
+        "id": 381,
+        "cityId": 368,
+        "zipCode": 963,
+        "areaName": "太麻里鄉",
+        "areaEngName": "Taimali Township"
+      },
+      {
+        "id": 382,
+        "cityId": 368,
+        "zipCode": 964,
+        "areaName": "金峰鄉",
+        "areaEngName": "Jinfeng Township"
+      },
+      {
+        "id": 383,
+        "cityId": 368,
+        "zipCode": 965,
+        "areaName": "大武鄉",
+        "areaEngName": "Dawu Township"
+      },
+      {
+        "id": 384,
+        "cityId": 368,
+        "zipCode": 966,
+        "areaName": "達仁鄉",
+        "areaEngName": "Daren Township"
+      }
+    ]
+  },
+  {
+    "id": 385,
+    "cityName": "花蓮縣",
+    "cityEngName": "Hualien County",
+    "areas": [
+      {
+        "id": 386,
+        "cityId": 385,
+        "zipCode": 970,
+        "areaName": "花蓮市",
+        "areaEngName": "Hualien City"
+      },
+      {
+        "id": 387,
+        "cityId": 385,
+        "zipCode": 971,
+        "areaName": "新城鄉",
+        "areaEngName": "Xincheng Township"
+      },
+      {
+        "id": 388,
+        "cityId": 385,
+        "zipCode": 972,
+        "areaName": "秀林鄉",
+        "areaEngName": "Xiulin Township"
+      },
+      {
+        "id": 389,
+        "cityId": 385,
+        "zipCode": 973,
+        "areaName": "吉安鄉",
+        "areaEngName": "Ji’an Township"
+      },
+      {
+        "id": 390,
+        "cityId": 385,
+        "zipCode": 974,
+        "areaName": "壽豐鄉",
+        "areaEngName": "Shoufeng Township"
+      },
+      {
+        "id": 391,
+        "cityId": 385,
+        "zipCode": 975,
+        "areaName": "鳳林鎮",
+        "areaEngName": "Fenglin Township"
+      },
+      {
+        "id": 392,
+        "cityId": 385,
+        "zipCode": 976,
+        "areaName": "光復鄉",
+        "areaEngName": "Guangfu Township"
+      },
+      {
+        "id": 393,
+        "cityId": 385,
+        "zipCode": 977,
+        "areaName": "豐濱鄉",
+        "areaEngName": "Fengbin Township"
+      },
+      {
+        "id": 394,
+        "cityId": 385,
+        "zipCode": 978,
+        "areaName": "瑞穗鄉",
+        "areaEngName": "Ruisui Township"
+      },
+      {
+        "id": 395,
+        "cityId": 385,
+        "zipCode": 979,
+        "areaName": "萬榮鄉",
+        "areaEngName": "Wanrong Township"
+      },
+      {
+        "id": 396,
+        "cityId": 385,
+        "zipCode": 981,
+        "areaName": "玉里鎮",
+        "areaEngName": "Yuli Township"
+      },
+      {
+        "id": 397,
+        "cityId": 385,
+        "zipCode": 982,
+        "areaName": "卓溪鄉",
+        "areaEngName": "Zhuoxi Township"
+      },
+      {
+        "id": 398,
+        "cityId": 385,
+        "zipCode": 983,
+        "areaName": "富里鄉",
+        "areaEngName": "Fuli Township"
+      }
+    ]
+  }
+]
